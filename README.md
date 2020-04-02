@@ -15,6 +15,12 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
 [Pariyatti](https://www.pariyatti.org) has a large repository of texts, audio, and video available for free but currently lacks an effective mechanism for knowledge management and discovery. The Pariyatti Mobile App will serve to provide a broad spectrum of seekers access to this body of knowledge.
 
 
+## Code
+
+- [kosa](https://github.com/pariyatti/kosa) is the library, editorial, and publishing service.
+- [patta](https://github.com/pariyatti/patta) is the Pariyatti mobile app, written in Flutter.
+
+
 ## Process
 
 Please read [CONTRIBUTING.md](https://github.com/pariyatti/agga/blob/master/CONTRIBUTING.md) before anything else.
