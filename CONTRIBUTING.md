@@ -30,9 +30,7 @@ Whether choosing a hardware platform, an operating system, a service provider, a
 
 > There are two hard problems in Computer Science: (1) Cache Invalidation and (2) Naming Things.
 
-It will be very important to converge on meaningful and universally-understood names for all layers of Pariyatti's software architecture. To prevent confusion it will be helpful for all contributors (users, project managers, operations staff, designers, and developers) to share a common language. To this end, each project may have a `GLOSSARY.md` in its root directory. This repository also contains a global glossary:
-
-https://github.com/pariyatti/agga/blob/master/GLOSSARY.md
+It will be very important to converge on meaningful and universally-understood names for all layers of Pariyatti's software architecture. To prevent confusion it will be helpful for all contributors (users, project managers, operations staff, designers, and developers) to share a common language. To this end, each project may have a `GLOSSARY.md` in its root directory. This repository also contains a [global glossary](https://github.com/pariyatti/agga/blob/master/docs/GLOSSARY.md).
 
 
 ## Quality

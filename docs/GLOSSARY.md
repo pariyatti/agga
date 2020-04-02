@@ -1,4 +1,4 @@
-# Glossary: Pariyatti Mobile App
+# Pariyatti Glossary
 
 Please use this document to define terms specific to the domain of the Pariyatti Mobile App. "Domain" in this context refers to Domain-Driven Design with an explicit focus on [Ubiquitous Language](https://martinfowler.com/bliki/UbiquitousLanguage.html). The terms defined in the Glossary should be used and understood by users, designers, developers, and testers _ubiquitously_.
 
@@ -17,13 +17,13 @@ As we come across new terms or adjust old terms, please define and re-define the
 
 - **pariyatti**: The Pali word for "theory" in the sense of Dhamma, as taught intellectually, through literature. Also the name of the [501(c)(3) US-based non-profit](https://en.wikipedia.org/wiki/Pariyatti).
 
-- **prototype**: Semantically similar to "spike" but with the intention of keeping the output and iterating on it. A prototype can be thought of as a spike that has graduated to a point where users will get involved in experimentation.
+- **prototype**: A prototype is an experiment _for the users_, not the developers. A prototype is a process, not an ad-hoc activity. Semantically similar to "spike" but with the intention of keeping the output and iterating on it. A prototype can be thought of as a spike that has graduated to a point where users will get involved in experimentation. Unlike spikes, prototypes usually signal the beginning of a new app/product/project.
 
 - **Resources**: The "Resources" **section** contains searchable books, audio, and videos as both online content and physical media for sale through the [Pariyatti Store](https://store.pariyatti.org/).
 
 - **section**: A group of information available through the app by clicking one of the five **tabs** at the bottom of the screen.
 
-- **spike**: Traditionally an experimental sample of a proposed application, running from the user interface(s) to the back end processing and storage services. Semantically similar to "prototype" but a spike is usually thrown out rather than iterated on once it has proven useful. In our case, we might also "spike" experiments with different software frameworks or architecture before the actual development begins.
+- **spike**: A spike is an experiment _for the developers_, not the users. A spike is an activity, not a process. Traditionally an experimental sample of a proposed application, running from the user interface(s) to the back end processing and storage services. Semantically similar to "prototype" but a spike is usually thrown out rather than iterated on once it has proven useful. We might also "spike" experiments with different software frameworks or architecture before the actual development begins but a spike is as likely to happen during active development as it is at the beginning of a project. The end result of a spike is usually a decision by the developer(s) who "spiked" an idea or a report detailing their findings so the team can make a decision and move forward.
 
 - **tab**: The five **sections** of the app ("Today", "Resources", "Offerings", "Account", "Donate") can be navigated to, from the bottom of the app, with clickable UI elements called "tabs".
 
