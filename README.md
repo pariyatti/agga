@@ -2,10 +2,11 @@
 
 The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. Treat this document as the hub of all other documentation for the Mobile App project. If a new piece of documentation emerges (or is discovered) which cannot or should not be committed to version control, please link to it from this README.
 
+- [Call to Action: Pariyatti Open Source](https://github.com/pariyatti/agga/blob/master/docs/CALL-TO-ACTION.md) (We are looking for "Digital Dhamma Servers")
+
 
 ## Important Links
 
-- [We are looking for "Digital Dhamma Servers"](https://github.com/pariyatti/agga/blob/master/docs/CALL-TO-ACTION.md)
 - [Contributing](https://github.com/pariyatti/agga/blob/master/CONTRIBUTING.md) (read me first)
 - [Glossary](https://github.com/pariyatti/agga/blob/master/docs/GLOSSARY.md) (read me second)
 - [Team Roster](https://drive.google.com/drive/folders/1RTAw2izD3m9hb79DJE2uu-4qepFby0px?usp=sharing) (private)
