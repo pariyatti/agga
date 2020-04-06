@@ -5,6 +5,7 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
 
 ## Important Links
 
+- [We are looking for "Digital Dhamma Servers"](https://github.com/pariyatti/agga/blob/master/docs/CALL-TO-ACTION.md)
 - [Contributing](https://github.com/pariyatti/agga/blob/master/CONTRIBUTING.md) (read me first)
 - [Glossary](https://github.com/pariyatti/agga/blob/master/docs/GLOSSARY.md) (read me second)
 - [Team Roster](https://drive.google.com/drive/folders/1RTAw2izD3m9hb79DJE2uu-4qepFby0px?usp=sharing) (private)
