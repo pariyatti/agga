@@ -10,7 +10,10 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
 - [Contributing](https://github.com/pariyatti/agga/blob/master/CONTRIBUTING.md) (read me first)
 - [Glossary](https://github.com/pariyatti/agga/blob/master/docs/GLOSSARY.md) (read me second)
 - [Team Roster](https://drive.google.com/drive/folders/1RTAw2izD3m9hb79DJE2uu-4qepFby0px?usp=sharing) (private)
-- [Design Docs & Wireframes](https://drive.google.com/drive/folders/1Iga6z-5tndLJ411XG5ibimLwNC5VZDVv?usp=sharing)
+- Design Docs & Wireframes:
+  - [Mobile App](https://drive.google.com/drive/folders/1Iga6z-5tndLJ411XG5ibimLwNC5VZDVv?usp=sharing)
+  - [Kosa Publisher](https://whimsical.com/4tTbGHDiYkYXj7cUnTBSTb)
+  - [Kosa Library](https://whimsical.com/6LN2LDkv1bRyyuojyiJ8oV)
 
 
 ## Statement of Purpose
