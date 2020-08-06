@@ -14,17 +14,19 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
   - [Mobile App](https://drive.google.com/drive/folders/1Iga6z-5tndLJ411XG5ibimLwNC5VZDVv?usp=sharing)
   - [Kosa Publisher](https://whimsical.com/4tTbGHDiYkYXj7cUnTBSTb)
   - [Kosa Library](https://whimsical.com/6LN2LDkv1bRyyuojyiJ8oV)
-
+- Architecture:
+  - [Kosa Architecture Decision Records](https://github.com/pariyatti/kosa/tree/master/docs/arch)
+  - [Pariyatti Network Topology](https://github.com/pariyatti/agga/blob/master/docs/network-topology.pdf)
+  - [The Pariyatti Data Model](https://github.com/pariyatti/agga/blob/master/docs/data-models.pdf)
+  - [What is a (relational) database?](https://docs.google.com/document/d/1QuiWPaAUH9_UOeBouGGCgF_FyRRhoL4uLkfKvSsbw2o/edit#)
+  - [What is a graph database?](https://neo4j.com/developer/graph-database/)
+- Code:
+  - [kosa](https://github.com/pariyatti/kosa) is the library, editorial, and publishing service.
+  - [patta](https://github.com/pariyatti/patta) is the Pariyatti mobile app, written in Flutter.
 
 ## Statement of Purpose
 
 [Pariyatti](https://www.pariyatti.org) has a large repository of texts, audio, and video available for free but currently lacks an effective mechanism for knowledge management and discovery. The Pariyatti Mobile App will serve to provide a broad spectrum of seekers access to this body of knowledge.
-
-
-## Code
-
-- [kosa](https://github.com/pariyatti/kosa) is the library, editorial, and publishing service.
-- [patta](https://github.com/pariyatti/patta) is the Pariyatti mobile app, written in Flutter.
 
 
 ## Process
