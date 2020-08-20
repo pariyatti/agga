@@ -5,6 +5,8 @@ All contributors must sign the Pariyatti Contributor Agreement (PCA). The PCA cr
 
 ## Current Contributors
 
+|                   |                    |                 |
+|:------------------|:-------------------|:----------------|
 | Brihas Sarathy    | Project Oversight  | 2017-present    |
 | Nishant Choudhary | Product Management | 2017-present    |
 | Steven Deobald    | Project Management | 2019/11-present |
@@ -13,6 +15,8 @@ All contributors must sign the Pariyatti Contributor Agreement (PCA). The PCA cr
 
 ## Past Contributors
 
+|                  |             |                 |
+|:-----------------|:------------|:----------------|
 | Santu Mahapatra  | Development | 2020/01-2020/05 |
 | Maciej Falski    | Development | 2020/01-2020/02 |
 | Hetvi Jani       | Development | 2020/08-2020/08 |
