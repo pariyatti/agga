@@ -36,3 +36,12 @@ Please read [CONTRIBUTING.md](https://github.com/pariyatti/agga/blob/master/CONT
 The App has thus far followed a highly-distributed mode of discovery, design, project management, operations, and development. The existing [Pariyatti Staff](https://pariyatti.org/About#section4) will provide long-term guidance to the project. As such, a long-term view of the project must always be a priority for any contributor. Whenever decisions are made and design/development occurs, please keep in mind this question: "who will be responsible for this in 5 - 10 years?" Wherever and whenever possible, involve Pariyatti's long-term staff in discussions and ensure they have access to (and ultimate control of) all documents, code, accounts, passwords, keys, etc.
 
 We will build the app and any corresponding server-side components as Free & Open Software. This is done for two reasons: (1) ethical software practices, in the interest of strengthening sila throughout the project and (2) smooth collaboration between various volunteers/servers/staff with different levels of commitment.
+
+
+## License and Copyright
+
+[AGPL-3](https://github.com/pariyatti/agga/blob/development/LICENSE)
+
+Copyright (c) 2019-present, Pariyatti
+
+
