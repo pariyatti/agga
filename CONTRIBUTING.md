@@ -6,6 +6,13 @@
 Please read this document thoroughly and clarify any doubts before making contributions. There are three main points of consideration this document covers. They are all interconnected. The first is a **_long-term vision_**. It is important to make decisions in the context of Pariyatti (the organization and its resources) surviving for a very long time... well beyond our own lives. The second is **_selfless service_**. Give your time to Pariyatti software projects because you want to serve others --- to help the people of the world while they walk the path. The last, and perhaps most important, is **_sila_** (ethics). While giving Dhamma Service, always do your utmost not only to maintain your own sila but to ensure no action of yours causes another person to break their sila.
 
 
+## Before Contributing
+
+All contributions to Pariyatti's Open Source projects require a signed Contributor Agreement. This assigns joint copyright to both you and Pariyatti for the work you contribute. The Contributor Agreement can be found here:
+
+https://docs.google.com/document/d/1kAFU0CljFHOI80lO6hXGSl_wArxXqFD3XP3m-b8iHHA/edit
+
+
 ## Long-term Support
 
 It is important for all contributors to keep in mind the nature of Pariyatti projects. 2500 years of literature is likely to experience a very long software support cycle --- rather unlike those seen in common software projects. (Some help conceptualizing this exponential timescale is provided in the following section, "Time".) For this reason, a key point must always be kept in mind:
