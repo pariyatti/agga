@@ -51,8 +51,13 @@ We will build the app and any corresponding server-side components as Free & Ope
 
 ## License and Copyright
 
-[AGPL-3](https://github.com/pariyatti/agga/blob/development/LICENSE)
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
 Copyright (c) 2019-present, Pariyatti
-
 
