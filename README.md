@@ -24,14 +24,18 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
 - [Mobile App](https://github.com/pariyatti/design/tree/master/mobile-app/renders)
 - [Kosa Publisher](https://whimsical.com/JwhtJKYRasEaSk91s7nLuG)
 - [Kosa Library](https://whimsical.com/5uyY3q9Pqv2iiWBbH29FfD)
-- [All Designs](https://github.com/pariyatti/design)
+- [All Other Designs](https://github.com/pariyatti/design)
 
 ## Architecture:
 - [Kosa Architecture Decision Records](https://github.com/pariyatti/kosa/tree/master/docs/arch)
 - [Pariyatti Network Topology](https://github.com/pariyatti/agga/blob/master/docs/network-topology.pdf)
 - [The Pariyatti Data Model](https://github.com/pariyatti/agga/blob/master/docs/data-models.pdf)
+
+## Architecture Background:
 - [What is a (relational) database?](https://github.com/pariyatti/agga/blob/master/docs/what-is-a-relational-database.pdf)
 - [What is a graph database?](https://neo4j.com/developer/graph-database/)
+- The [WikiBase Architecture](https://addshore.com/2018/12/wikidata-architecture-overview-diagrams) is probably too complicated (for us).
+- 2020-04 - Legacy Infrastructure: [Today](https://github.com/pariyatti/kosa/blob/master/docs/where-we-are-today.md) vs. [Tomorrow](https://github.com/pariyatti/kosa/blob/master/docs/where-we-are-tomorrow.md)
 
 ## Child Repositories
 
