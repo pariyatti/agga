@@ -14,6 +14,7 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
   - [Mobile App](https://drive.google.com/drive/folders/1Iga6z-5tndLJ411XG5ibimLwNC5VZDVv?usp=sharing)
   - [Kosa Publisher](https://whimsical.com/4tTbGHDiYkYXj7cUnTBSTb)
   - [Kosa Library](https://whimsical.com/6LN2LDkv1bRyyuojyiJ8oV)
+  - [https://pariyatti.app](https://www.figma.com/file/OaZ9hOY4vvlZhr8a4l1JrE/pariyattiapp-website?node-id=0%3A1)
 - Architecture:
   - [Kosa Architecture Decision Records](https://github.com/pariyatti/kosa/tree/master/docs/arch)
   - [Pariyatti Network Topology](https://github.com/pariyatti/agga/blob/master/docs/network-topology.pdf)
