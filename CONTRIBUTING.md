@@ -12,6 +12,14 @@ All contributions to Pariyatti's Open Source projects require a signed Contribut
 
 https://docs.google.com/document/d/1kAFU0CljFHOI80lO6hXGSl_wArxXqFD3XP3m-b8iHHA/edit
 
+To sign this document:
+
+* edit the document in Google Docs with your details
+* print the document to PDF
+* sign the PDF using Adobe Acrobat (Windows), Evince (Linux), or Preview (MacOS)
+    * alternatively, you can print + sign + scan
+* email the signed PCA to [Steven](mailto:steven@deobald.ca) or [volunteer@pariyatti.org](mailto:volunteer@pariyatti.org)
+
 
 ## Long-term Support
 
