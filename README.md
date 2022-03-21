@@ -13,7 +13,7 @@ The Agga repo exists as a meta-repo for all other Pariyatti projects on GitHub. 
 1. [CONTRIBUTING](https://github.com/pariyatti/agga/blob/master/CONTRIBUTING.md) (read me first)
 2. [What is the Pariyatti App?](https://github.com/pariyatti/agga/blob/master/docs/what-is-the-pariyatti-app.pdf)
 3. Read the [Glossary](https://github.com/pariyatti/agga/blob/master/docs/GLOSSARY.md)
-4. [Sign the Contributor Agreement](https://github.com/pariyatti/agga/blob/master/forms/pariyatti-contributor-agreement-v1.pdf)
+4. [Sign the Contributor Agreement](https://github.com/pariyatti/agga/blob/master/forms/pariyatti-contributor-agreement-v1.pdf) and email it to [Steven](mailto:steven@deobald.ca) or [volunteer@pariyatti.org](mailto:volunteer@pariyatti.org)
 
 ## Communication
 
